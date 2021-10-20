@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Implant Dentistry",
+        "image": "https://www.yourdentistryguide.com/wp-content/uploads/2017/11/implants-vs-min.jpg",
+        "description": "Missing one or multiple teeth can greatly impact your life in a negative way, from limiting the foods you can enjoy to limiting your confidence.",
+        "cost": 5999,
+        "available": 10,
+        "time": "9:00 AM - 10:00 AM"
+    },
+    {
+        "id": 2,
+        "title": "Cosmetic Dentistry",
+        "image": "https://media.istockphoto.com/photos/treatment-and-whitening-of-teeth-dental-crowns-before-and-after-picture-id1206712036?k=20&m=1206712036&s=612x612&w=0&h=v0yAqs9CNVcurP9FbK9hh8auhR3MCwSrkj6m2Zc-n_c=",
+        "description": "The cosmetic teeth whitening process has quickly become a popular and affordable way to change your smile.",
+        "cost": 7999,
+        "available": 8,
+        "time": "10:50 AM - 11:50 AM"
+    },
+    {
+        "id": 3,
+        "title": "Preventive Dentistry",
+        "image": "https://www.hardypedoortho.com/wp-content/uploads/shutterstock_273031922.jpg",
+        "description": "No matter your age, our array of preventative dental treatments will allow you to achieve and maintain a healthy, beautiful smile.",
+        "cost": 4599,
+        "available": 12,
+        "time": "8:30 AM - 9:30 AM"
+    },
+    {
+        "id": 4,
+        "title": "Family Dentistry",
+        "image": "https://www.crossroadsfamilydentistry.com/wp-content/uploads/2018/05/Crossroads-Family-Dentistry-Oklahoma-City.jpg",
+        "description": "We are proud to offer the latest, most effective sealant and fluoride treatments to provide your child with the best strategies to avoid future dental problems.",
+        "cost": 11999,
+        "available": 5,
+        "time": "9:00 AM - 10:00 AM"
+    },
+    {
+        "id": 5,
+        "title": "Teeth Orthodontics",
+        "image": "https://cdn.dhamadison.com/wp-content/uploads/2020/10/05204823/ortho_illus.jpg",
+        "description": "There are three stages of orthodontic treatment. The first is when appliances are used to gain space in the mouth. For example, palatal expanders are used to expand the width of the palate and lingual bars are used to expand the lower jaw.",
+        "cost": 5599,
+        "available": 11,
+        "time": "7:00 PM - 8:30 PM"
+    },
+    {
+        "id": 6,
+        "title": "Cavity Protection",
+        "image": "https://post.healthline.com/wp-content/uploads/2020/08/Male-Dentist-Chair-Teeth-732x549-Thumbnail-732x549.jpg",
+        "description": "Cavity Protection treatment contains fluoride which is clinically proven to fight cavities on teeth surfaces and exposed roots.",
+        "cost": 2999,
+        "available": 15,
+        "time": "2:30 PM - 3:00 PM"
+    }
+]
